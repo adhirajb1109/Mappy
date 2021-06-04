@@ -1,0 +1,7 @@
+6
+33D:\Website Development\Mappy\dist132672864873556210 1
+39D:\Website Development\Mappy\index.html132672854907114103 0
+38D:\Website Development\Mappy\script.js132672853173967768 0
+51D:\Website Development\Mappy\dist\index.21a869f0.js132672864873466216 0
+55D:\Website Development\Mappy\dist\index.21a869f0.js.map132672864873536191 0
+44D:\Website Development\Mappy\dist\index.html132672864873376145 0

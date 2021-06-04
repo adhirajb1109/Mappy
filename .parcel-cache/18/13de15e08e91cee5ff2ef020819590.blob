@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mappy</title>
+    <link rel="shortcut icon" href="41c0d53391111d840b8e02ed5fd6ab9b" type="image/png">
+    <link href="c6bc6cc95817d3f0fc7f203d5106cd20" rel="stylesheet">
+    <link rel="stylesheet" href="15d82687f910ca3aa48a52bc8bfda0d6" type="text/css">
+    <style data-parcel-key="a7f0a161e69093526b391dce4a872f1a">
+      body {
+        margin: 0;
+      }
+      #map {
+        height: 100vh;
+        width: 100vw;
+      }
+    </style>
+  </head>
+  <body>
+    <script src="ca326be4e624e5f7ffe2bdd9d1e34663"></script>
+    <script src="8fed8e93ce36dab3cb174d00b8db5470"></script>
+    <script src="ce9ef6fc924d25b1e9731a5384ee9f66" defer=""></script>
+    <div id="map"></div>
+  </body>
+</html>
